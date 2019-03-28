@@ -1,7 +1,7 @@
 # laboratorios
 
 ## lab 1
-- *atualizar com inventário...*
+- 22 Computadores
 
 ## lab 2
 - *atualizar com inventário...*
